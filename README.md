@@ -3,3 +3,4 @@ FreeCodeCamp is a non-profit organization that offers free online coding educati
 
 ## Link to the website 
 - [RPG-Dragon-Repeller](https://jeffin03.github.io/freeCodeCamp/RPG/)
+- [Calorie Counter](https://jeffin03.github.io/freeCodeCamp/Calorie-Counter/)
